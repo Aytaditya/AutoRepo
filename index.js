@@ -89,9 +89,9 @@ const messages=[
     },
 ]
 
-//const user_query='Create a todo folder and create a todo app using html, css and javascript. Also create a readme file with instructions to run the app. also keep ui very good' 
+const user_query='Create a todo folder and create a todo app using html, css and javascript. Also create a readme file with instructions to run the app. also keep ui very good' 
 
-const user_query='Create a folder weather and create a weather app using react+vite.The app should show the weather of Paris, New York and Tokyo. The app should have a good UI.'
+// const user_query='Create a folder weather and create a weather app using react+vite.The app should show the weather of Paris, New York and Tokyo. The app should have a good UI.'
 
 messages.push({'role': 'user', 'content': user_query})
 
