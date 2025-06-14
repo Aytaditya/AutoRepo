@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+  min-height: 100vh;
+}
+.weather-grid {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.weather-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  padding: 2rem 3rem;
+  min-width: 180px;
+}
+.weather-card h2 {
+  margin: 0 0 1rem 0;
+  color: #0077b6;
+}
+.temp {
+  font-size: 2rem;
+  color: #023e8a;
+  font-weight: bold;
+}
