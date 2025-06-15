@@ -13,6 +13,8 @@ AutoRepo is an AI-powered command execution engine that turns natural language i
 - Executes real **shell commands** (e.g., `mkdir`, `touch`, etc.)
 - Generates code and file structure inside specified folders
 
+![Todo](./images/todo.png)
+
 ---
 
 ## 🧠 Workflow
@@ -26,6 +28,9 @@ The system goes through 5 phases:
 5. **OUTPUT** – Provides the final summary or completion message
 
 All communication is in **strict JSON format** between steps.
+
+![Portfolio](./images/portfolio.png)
+![Portfolio](./images/portfolio1.png)
 
 ---
 
